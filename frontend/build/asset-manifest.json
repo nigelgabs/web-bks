@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6bd074c8.css",
+    "main.js": "/static/js/main.c455a869.js",
+    "static/media/Penandatanganan_PII.jpg": "/static/media/Penandatanganan_PII.c40a427c1b14569bb9ed.jpg",
+    "static/media/Enjiniring.jpg": "/static/media/Enjiniring.57e4115e1b61acc6d8ea.jpg",
+    "static/media/UNDIP.jpg": "/static/media/UNDIP.777d9499b7944d0966a9.jpg",
+    "static/media/Kominfo.jpg": "/static/media/Kominfo.d514d25f73284df0dc1b.jpg",
+    "static/media/IT-PLN.png": "/static/media/IT-PLN.df5222c81b99934a823d.png",
+    "static/media/bkss.jpg": "/static/media/bkss.aa333e5d4df536b1e60b.jpg",
+    "index.html": "/index.html",
+    "main.6bd074c8.css.map": "/static/css/main.6bd074c8.css.map",
+    "main.c455a869.js.map": "/static/js/main.c455a869.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bd074c8.css",
+    "static/js/main.c455a869.js"
+  ]
+}
